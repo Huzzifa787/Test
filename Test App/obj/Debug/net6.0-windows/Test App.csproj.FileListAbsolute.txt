@@ -18,3 +18,24 @@ C:\Users\Zubair Gujjar\Desktop\Test\Test App\obj\Debug\net6.0-windows\refint\Tes
 C:\Users\Zubair Gujjar\Desktop\Test\Test App\obj\Debug\net6.0-windows\Test App.pdb
 C:\Users\Zubair Gujjar\Desktop\Test\Test App\obj\Debug\net6.0-windows\Test App.genruntimeconfig.cache
 C:\Users\Zubair Gujjar\Desktop\Test\Test App\obj\Debug\net6.0-windows\ref\Test App.dll
+C:\Users\ST\Desktop\Testing\Test App\bin\Debug\net6.0-windows\Test App.exe
+C:\Users\ST\Desktop\Testing\Test App\bin\Debug\net6.0-windows\Test App.deps.json
+C:\Users\ST\Desktop\Testing\Test App\bin\Debug\net6.0-windows\Test App.runtimeconfig.json
+C:\Users\ST\Desktop\Testing\Test App\bin\Debug\net6.0-windows\Test App.dll
+C:\Users\ST\Desktop\Testing\Test App\bin\Debug\net6.0-windows\Test App.pdb
+C:\Users\ST\Desktop\Testing\Test App\bin\Debug\net6.0-windows\ScottPlot.dll
+C:\Users\ST\Desktop\Testing\Test App\bin\Debug\net6.0-windows\ScottPlot.WinForms.dll
+C:\Users\ST\Desktop\Testing\Test App\obj\Debug\net6.0-windows\Test App.csproj.AssemblyReference.cache
+C:\Users\ST\Desktop\Testing\Test App\obj\Debug\net6.0-windows\Test_App.Form1.resources
+C:\Users\ST\Desktop\Testing\Test App\obj\Debug\net6.0-windows\Test App.csproj.GenerateResource.cache
+C:\Users\ST\Desktop\Testing\Test App\obj\Debug\net6.0-windows\Test App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ST\Desktop\Testing\Test App\obj\Debug\net6.0-windows\Test App.AssemblyInfoInputs.cache
+C:\Users\ST\Desktop\Testing\Test App\obj\Debug\net6.0-windows\Test App.AssemblyInfo.cs
+C:\Users\ST\Desktop\Testing\Test App\obj\Debug\net6.0-windows\Test App.csproj.CoreCompileInputs.cache
+C:\Users\ST\Desktop\Testing\Test App\obj\Debug\net6.0-windows\Test App.csproj.CopyComplete
+C:\Users\ST\Desktop\Testing\Test App\obj\Debug\net6.0-windows\Test App.dll
+C:\Users\ST\Desktop\Testing\Test App\obj\Debug\net6.0-windows\refint\Test App.dll
+C:\Users\ST\Desktop\Testing\Test App\obj\Debug\net6.0-windows\Test App.pdb
+C:\Users\ST\Desktop\Testing\Test App\obj\Debug\net6.0-windows\Test App.genruntimeconfig.cache
+C:\Users\ST\Desktop\Testing\Test App\obj\Debug\net6.0-windows\ref\Test App.dll
+C:\Users\ST\Desktop\Testing\Test App\obj\Debug\net6.0-windows\Test_App.Form2.resources

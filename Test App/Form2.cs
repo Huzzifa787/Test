@@ -1,8 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
 namespace Test_App
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
         }
@@ -11,14 +21,8 @@ namespace Test_App
         {
             double[] xs = new double[] { 1, 2, 3, 4, 5 };
             double[] ys = new double[] { 1, 4, 9, 16, 25 };
-            formsPlot1.Plot.AddScatter(xs, ys);
+            formsPlot1.Plot.AddPie(xs);
             formsPlot1.Refresh();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            Form Frm = new Form2();
-            Frm.Show();
         }
     }
 }
