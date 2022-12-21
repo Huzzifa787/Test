@@ -281,19 +281,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Zubair Gujjar\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zubair Gujjar\\Desktop\\Test\\Test App\\Test App.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Test\\Test App\\Test App.csproj",
       "projectName": "Test App",
-      "projectPath": "C:\\Users\\Zubair Gujjar\\Desktop\\Test\\Test App\\Test App.csproj",
-      "packagesPath": "C:\\Users\\Zubair Gujjar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zubair Gujjar\\Desktop\\Test\\Test App\\obj\\",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\Test\\Test App\\Test App.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\Test\\Test App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Zubair Gujjar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -343,7 +343,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
