@@ -21,7 +21,7 @@ namespace Test_App
         {
             double[] xs = new double[] { 1, 2, 3, 4, 5 };
             double[] ys = new double[] { 1, 4, 9, 16, 25 };
-            formsPlot1.Plot.AddPie(xs);
+            formsPlot1.Plot.AddBar(xs,ys);
             formsPlot1.Refresh();
         }
     }

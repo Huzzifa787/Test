@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "XSOqqaRlTjbADWJYTCA4+uoIT+Z1zuy8VX4Eb2hlkqfPsq4vLguezK3RvYHMb43jB05EaYj6OXSti6SkdWTlUg==",
+  "dgSpecHash": "JKxs7LmEraTEyorsau+BvTJDzra+kAfDo1kV3OfoJjZ4MmlySRV0FWzTJ9nYDH3H8foPIxK0PnkglfHM12Y1Zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ST\\Desktop\\Testing\\Test App\\Test App.csproj",
+  "projectFilePath": "C:\\Users\\Zubair Gujjar\\Desktop\\Test\\Test App\\Test App.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ST\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
-    "C:\\Users\\ST\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
-    "C:\\Users\\ST\\.nuget\\packages\\scottplot\\4.1.59\\scottplot.4.1.59.nupkg.sha512",
-    "C:\\Users\\ST\\.nuget\\packages\\scottplot.winforms\\4.1.59\\scottplot.winforms.4.1.59.nupkg.sha512",
-    "C:\\Users\\ST\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512",
-    "C:\\Users\\ST\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+    "C:\\Users\\Zubair Gujjar\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\Zubair Gujjar\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\Zubair Gujjar\\.nuget\\packages\\scottplot\\4.1.59\\scottplot.4.1.59.nupkg.sha512",
+    "C:\\Users\\Zubair Gujjar\\.nuget\\packages\\scottplot.winforms\\4.1.59\\scottplot.winforms.4.1.59.nupkg.sha512",
+    "C:\\Users\\Zubair Gujjar\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512",
+    "C:\\Users\\Zubair Gujjar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
